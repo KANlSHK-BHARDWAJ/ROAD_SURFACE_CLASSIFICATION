@@ -1,0 +1,7 @@
+torch 
+torchvision
+torch-directml
+numpy
+pillow
+opencv-python
+matplotlib
